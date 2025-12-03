@@ -69,11 +69,11 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" />
       <br/>Flutter
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="icon" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" />
       <br/>Dart
     </td>
     <td align="center" width="120">
