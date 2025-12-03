@@ -93,7 +93,7 @@
 ### 🐍 Contribution Snake Game
 
 <div align="center">
-  <img src="https://github.com/Bhanu7773-dev/Bhanu7773-dev/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://raw.githubusercontent.com/Bhanu7773-dev/Bhanu7773-dev/output/github-contribution-grid-snake.svg" alt="snake game" />
   <!-- Note: To make this snake work, you need to set up a GitHub Action workflow. 
        I can help you with that if you want! For now, this is a placeholder link. -->
 </div>
