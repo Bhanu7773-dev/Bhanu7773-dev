@@ -14,7 +14,7 @@
   <!-- Header Image - You can replace this with a custom banner later -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" width="100%"/>
 
-  # Hi there, I'm Bhanu Pratap Singh Rajwat! 👋
+  # Hi there, I'm Bhanu Pratap Singh Rajawat! 👋
 
   <!-- Typing effect -->
   <a href="https://git.io/typing-svg">
