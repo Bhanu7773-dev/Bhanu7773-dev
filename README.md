@@ -1,120 +1,112 @@
-<!--
-  VS Code IDE Theme Profile
-  Username: Bhanu7773-dev
--->
+<!-- Cinematic Animated Profile -->
+<!-- Username: Bhanu7773-dev -->
 
-<!-- VS Code Header / Toolbar -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=252526&height=50&section=header&text=Visual%20Studio%20Code%20-%20Bhanu's%20Workspace&fontSize=20&fontColor=cccccc&fontAlign=50&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Bhanu%20Pratap%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20BCA%20Student&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-<!-- Main IDE Layout -->
-<table width="100%">
+<table align="center" width="100%" style="border: none;">
 <tr>
-<!-- Sidebar (Explorer) -->
-<td width="20%" valign="top" align="left">
-<h3 align="center">📂 Explorer</h3>
-<br/>
-<b>v WORKSPACE</b>
-<br/>
-&nbsp;&nbsp;📂 .github
-<br/>
-&nbsp;&nbsp;📂 src
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;📄 <b>bio.dart</b>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;📄 <b>skills.json</b>
-<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;📄 <b>projects.yml</b>
-<br/>
-&nbsp;&nbsp;📄 README.md
+<td width="60%" align="left" valign="center">
+<h1>⚡ Hi, I'm Bhanu!</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Building+Dynamic+Mobile+Apps;Crafting+Smooth+Animations;Open+Source+Contributor;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</a>
 <br/><br/>
-<h3 align="center">⚙️ Settings</h3>
+🎓 <b>BCA Student</b> @ <b>IPS College, Jaipur</b>
 <br/>
-Theme: Dark+
+� <b>Flutter Specialist</b> creating pixel-perfect UIs.
 <br/>
-Zoom: 100%
+🚀 <b>Passion:</b> I don't just write code; I build <b>experiences</b>.
 <br/>
-Status: Online 🟢
+🌱 <b>Learning:</b> Advanced System Architecture.
+<br/><br/>
+<a href="https://github.com/Bhanu7773-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:bhanupratapsinghrajawatbca23@ipsedu.co.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </td>
+<td width="40%" align="center" valign="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated Developer" />
+</td>
+</tr>
+</table>
 
-<!-- Editor Area -->
-<td width="80%" valign="top">
-
-<!-- Tabs -->
-<code><b>bio.dart</b></code> &nbsp; <code>skills.json</code> &nbsp; <code>projects.yml</code>
-<hr/>
-
-<!-- File Content: bio.dart -->
-<h3>📄 bio.dart</h3>
-<pre>
-class <b>Bhanu</b> extends <b>Developer</b> {
-  String college = "IPS College, Jaipur";
-  String course = "BCA";
-  String passion = "Building Mobile Apps";
-
-  void <b>code()</b> {
-    print("Turning Coffee into Code ☕");
-  }
-}
-</pre>
-
-<br/>
-
-<!-- File Content: skills.json -->
-<h3>📄 skills.json</h3>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,java,git,linux,vscode&perline=8" />
+<div align="center">
+<h2>🏆 Achievements Unlocked</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=Bhanu7773-dev&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true" />
+</a>
 </div>
 
 <br/>
 
-<!-- File Content: projects.yml -->
-<h3>📄 projects.yml</h3>
-<table width="100%">
+<div align="center">
+<h2>�️ Tech Stack & Tools</h2>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,java,git,github,vscode,linux,python,cpp,html,css,js&perline=14" />
+</div>
+
+<br/>
+
+<h2 align="center">� Featured Projects</h2>
+<table align="center" width="100%">
 <tr>
-<th>Name</th>
-<th>Type</th>
-<th>Status</th>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
 </tr>
 <tr>
-<td><a href="https://github.com/Bhanu7773-dev/Prism">Prism</a></td>
-<td>Wallpaper App</td>
-<td>🚀 Live</td>
+<td><b><a href="https://github.com/Bhanu7773-dev/Prism">Prism</a></b></td>
+<td>🎨 Stunning wallpaper app with immersive UI.</td>
+<td><img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Bhanu7773-dev/PennyWise">PennyWise</a></td>
-<td>Finance Tracker</td>
-<td>🔥 Hot</td>
+<td><b><a href="https://github.com/Bhanu7773-dev/PennyWise">PennyWise</a></b></td>
+<td>💰 Smart personal finance manager.</td>
+<td><img src="https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=firebase" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Bhanu7773-dev/StreamX">StreamX</a></td>
-<td>Video Streaming</td>
-<td>📺 Beta</td>
+<td><b><a href="https://github.com/Bhanu7773-dev/StreamX">StreamX</a></b></td>
+<td>📺 Seamless video streaming experience.</td>
+<td><img src="https://img.shields.io/badge/Dart-blue?style=flat-square&logo=dart" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Bhanu7773-dev/PlayWaves">PlayWaves</a></td>
-<td>Music Player</td>
-<td>🎵 Stable</td>
+<td><b><a href="https://github.com/Bhanu7773-dev/PlayWaves">PlayWaves</a></b></td>
+<td>🎵 Feature-rich music player.</td>
+<td><img src="https://img.shields.io/badge/Audio-red?style=flat-square&logo=google-play" /></td>
 </tr>
 </table>
 
 <br/>
 
-<!-- Terminal -->
-<h3>🖥️ Terminal</h3>
-<pre>
-bhanu@devbox:~$ git commit -m "Leveling up every day"
-[main 1234567] Leveling up every day
- 1 file changed, 100 insertions(+)
-bhanu@devbox:~$ _
-</pre>
-
+<h2 align="center">📊 GitHub Analytics</h2>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bhanu7773-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu7773-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
 </td>
 </tr>
 </table>
 
-<!-- Footer Status Bar -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=30&section=footer&text=Ln%201,%20Col%201%20%20%7C%20%20UTF-8%20%20%7C%20%20Dart%20%20%7C%20%20Prettier%20%E2%9C%93&fontSize=15&fontColor=ffffff&fontAlign=50" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu7773-dev&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<br/>
+
+<div align="center">
+<h2>🐍 Contribution Snake</h2>
+<img src="https://raw.githubusercontent.com/Bhanu7773-dev/Bhanu7773-dev/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
