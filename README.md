@@ -61,42 +61,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 My Projects
 
-<div align="center">
-  
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu7773-dev&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu7773-dev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+| Project | Description |
+| :--- | :--- |
+| **[Prism](https://github.com/Bhanu7773-dev/Prism)** | A cool project I'm working on. |
+| **[PennyWise](https://github.com/Bhanu7773-dev/PennyWise)** | Smart personal finance manager. |
+| **[DevHub](https://github.com/Bhanu7773-dev/DevHub)** | Developer resources and tools. |
+| **[StreamX](https://github.com/Bhanu7773-dev/StreamX)** | Streaming application. |
+| **[PlayWaves](https://github.com/Bhanu7773-dev/PlayWaves)** | Music player application. |
+| **[FIT-X](https://github.com/Bhanu7773-dev/FIT-X-Releases)** | Fitness tracking application. |
 
-</div>
-
-<div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu7773-dev&theme=tokyonight&hide_border=true" alt="streak graph" />
-
-</div>
-
----
-
-### ⚡ Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu7773-dev&theme=tokyo-night" width="100%"/>
-</div>
-
----
-
-### 🐍 Contribution Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhanu7773-dev/Bhanu7773-dev/output/github-contribution-grid-snake.svg" alt="snake game" />
-  <!-- Note: To make this snake work, you need to set up a GitHub Action workflow. 
-       I can help you with that if you want! For now, this is a placeholder link. -->
-</div>
+<br/>
 
 <!-- Footer -->
 <div align="center">
