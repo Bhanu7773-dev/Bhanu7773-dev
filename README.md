@@ -6,7 +6,7 @@
   1. Create a new repository on GitHub with the SAME NAME as your username (e.g., if your user is 'bhanu', repo is 'bhanu').
   2. Create a file named 'README.md' in that repository.
   3. Copy the content below into that file.
-  4. Replace every instance of '[YOUR_GITHUB_USERNAME]' with your actual GitHub username.
+  4. Replace every instance of 'Bhanu7773-dev' with your actual GitHub username.
 -->
 
 <div align="center">
@@ -25,7 +25,7 @@
 
   <!-- Socials -->
   <p>
-    <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+    <a href="https://github.com/Bhanu7773-dev">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <!-- Add more socials here like LinkedIn, Twitter, etc. -->
@@ -60,17 +60,17 @@
 <div align="center">
   
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanu7773-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu7773-dev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanu7773-dev&theme=tokyonight&hide_border=true" alt="streak graph" />
 
 </div>
 
@@ -79,7 +79,7 @@
 ### ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu7773-dev&theme=tokyo-night" width="100%"/>
 </div>
 
 <!-- Footer -->
