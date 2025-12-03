@@ -14,14 +14,20 @@
   <!-- Header Image - You can replace this with a custom banner later -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile&descAlignY=51&descAlign=62" width="100%"/>
 
-  # Hi there, I'm a Developer! 👋
+  # Hi there, I'm Bhanu Pratap Singh Rajwat! 👋
 
   <!-- Typing effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Open+Source+Enthusiast;Building+Cool+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hobby+Flutter+Developer;BCA+Student+@+IPS+College;Building+Cool+Apps" alt="Typing SVG" />
   </a>
 
   <br/>
+
+  <!-- Bio -->
+  <p align="center">
+    🎓 I'm currently pursuing my <b>BCA</b> from <b>IPS College, Jaipur</b>.<br>
+    💻 I'm a passionate <b>Hobby Flutter Developer</b> exploring the world of mobile apps.
+  </p>
 
   <!-- Socials -->
   <p>
@@ -80,6 +86,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu7773-dev&theme=tokyo-night" width="100%"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake Game
+
+<div align="center">
+  <img src="https://github.com/Bhanu7773-dev/Bhanu7773-dev/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <!-- Note: To make this snake work, you need to set up a GitHub Action workflow. 
+       I can help you with that if you want! For now, this is a placeholder link. -->
 </div>
 
 <!-- Footer -->
